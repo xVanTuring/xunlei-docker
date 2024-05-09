@@ -33,5 +33,5 @@ docker build -t xunlei-arm --platform linux/arm64 --build-arg ARCH=arm64 .
 此Docker基于`jlesage/baseimage-gui:debian-10`，其他详细参数可参考其[文档](https://github.com/jlesage/docker-baseimage-gui)。
 
 
-[参考](https://github.com/KevinLADLee/baidunetdisk-docker)
+[参考: KevinLADLee/baidunetdisk-docker](https://github.com/KevinLADLee/baidunetdisk-docker)
 
